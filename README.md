@@ -1,2 +1,3 @@
 # testro
-It's a markdown file in the repository
+It's a markdown file in the repository.
+Author - Dewang
